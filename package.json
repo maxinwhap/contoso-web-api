@@ -1,0 +1,15 @@
+{
+  "name": "contoso-web-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node sever.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
